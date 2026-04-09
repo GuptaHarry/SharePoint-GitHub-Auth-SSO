@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "spfx-github-signin",
+    "libraryId": "b7ec5c5b-5716-484c-9524-5df9fca76648",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-github-signin",
+    "solutionShortDescription": "spfx-github-signin description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
