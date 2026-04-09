@@ -14,9 +14,11 @@ solution
 temp
 *.sppkg
 .heft
-
+ 
 # Coverage directory used by tools like istanbul
 coverage
+
+config/serve.json
 
 # OSX
 .DS_Store
