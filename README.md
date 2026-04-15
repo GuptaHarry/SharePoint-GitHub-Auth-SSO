@@ -1,3 +1,7 @@
+
+<img width="1302" height="767" alt="sso" src="https://github.com/user-attachments/assets/22dc67b0-9f46-465d-b588-8158355a406e" />
+
+
 # spfx-github-signin
 
 ## Summary
